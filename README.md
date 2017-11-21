@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome - my website is better than yours 
 
 You can use the [editor on GitHub](https://github.com/WoodSplitters/woodsplitters.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
